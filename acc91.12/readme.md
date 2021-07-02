@@ -1,4 +1,4 @@
-BiGAN model apply on NSL-KDD; accuracy: 91.12%
+### BiGAN model apply on NSL-KDD; accuracy: 91.12%
 
 ## Notice: When load the model, discriminator and bigan need to be complied again due to the use of tensorflow.optimizer.
 
