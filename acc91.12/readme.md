@@ -1,4 +1,9 @@
 ### BiGAN model apply on NSL-KDD; accuracy: 91.12%
+precision = 0.8727372840525844
+recall = 0.9880776124055171
+Accuracy = 0.9111958836053939
+F1 = 0.9268328338571742
+ROC_score = 0.953
 
 ## Notice: When load the model, discriminator and bigan need to be complied again due to the use of tensorflow.optimizer.
 
