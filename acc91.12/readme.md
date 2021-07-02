@@ -1,6 +1,6 @@
 BiGAN model apply on NSL-KDD; accuracy: 91.12%
 
-Notice: When load the model, discriminator and bigan need to be complied again due to the use of tensorflow.optimizer.
+## Notice: When load the model, discriminator and bigan need to be complied again due to the use of tensorflow.optimizer.
 
 from tensorflow.keras.optimizers import Adam optimizer = Adam(0.001, 0.5)
 
