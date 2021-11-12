@@ -6,8 +6,9 @@
   - cicddos2019  https://www.unb.ca/cic/datasets/ddos-2019.html
   - Bot-IOT  https://research.unsw.edu.au/projects/bot-iot-dataset
 * models
-  - autoencoder
-  - MLP
+  - autoencoder (anomaly detection / feature extraction)
+  - BiGAN (anomaly detection)
+  - MLP  (multi-classification)
 * metrics:
   - accuracy
   - F1
